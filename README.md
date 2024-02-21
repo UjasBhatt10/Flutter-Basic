@@ -1,4 +1,4 @@
-# codepur_basic
+# Basic Flutter
 
 A new Flutter project.
 
