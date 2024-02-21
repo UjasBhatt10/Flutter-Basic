@@ -6,5 +6,5 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![Screenshot_1708529028](https://github.com/UjasBhatt10/Flutter-Basic/assets/114408820/954f5be3-082c-4ac2-b133-2024a4422cf7  =250x250)
+![Screenshot_1708529028](https://github.com/UjasBhatt10/Flutter-Basic/assets/114408820/b9e64348-554f-4f0c-a392-61eb60294fb1  | width=100)
 
